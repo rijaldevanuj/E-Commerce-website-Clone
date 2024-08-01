@@ -1,0 +1,188 @@
+*{
+    padding: 0;
+    margin : 0;
+    border: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar{
+    background-color: #0f1111;
+    height:60px;
+    display: flex;
+    color: white;
+}
+.nav_location{
+    margin-left: 20px;
+    margin-top: 10px;;
+}
+.navsearch{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.navsignin{
+    margin-left: 15px;
+    padding-top: 15px;
+    font-size: smaller;
+}
+.navsignin1{
+    font-size: x-small;
+}
+
+.returnandorders{
+    margin-left: 15px;
+    padding-top: 15px;
+    font-size: smaller;
+}
+.return{
+    font-size: x-small;
+}
+
+.cart{
+    margin-left: 20px;
+    padding-top:20px
+}
+
+.small_navbar{
+    height:39px;
+    background-color: #232f3e ;
+    color:white;
+    display: flex;
+}
+.Todaysdeals{
+    margin-left: 16px;
+    padding-top: 5px;
+}
+.mainpic{
+    background-image: url(https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2021/FathersDay/Fuji_LPHero_FD21_en_US.jpg);
+    background-size:cover;
+    height: 330px;
+}
+.shopsection{
+    display:flex;
+    justify-content: space-evenly;
+    background-color: #ffffff;
+    height: max-content;
+   
+}
+.shopsection2{
+    display:flex;
+    justify-content: space-evenly;
+    background-color: #ffffff;
+    height: max-content;
+}   
+
+
+
+.box{
+    height: 350px;
+    width: 350px;
+    border:1px ;
+    background-color: #ffffff;
+
+}
+
+
+.w1{
+position:absolute;
+bottom: 10px;
+text-align: center;
+background-color: #ffffff;
+font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.w2{
+    position:absolute;
+    bottom: 10px;
+    text-align: center;
+    background-color: #ffffff;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.w3{
+    position:absolute;
+    bottom: 10px;
+    text-align: center;
+    background-color: #ffffff;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.w4{
+    position:absolute;
+    bottom: 10px;
+    text-align: center;
+    background-color: #ffffff;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+.box2{
+    height: 350px;
+    width: 350px;
+    border:1px ;
+    background-color: #ffffff;
+    
+    
+}        
+   
+.w5{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.w6{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.w7{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.w8{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.footer{
+    background-color: #232f3e;
+    width: 1550px;;
+    height: 510px;
+}
+.backtotop{
+    text-align: center;
+    padding-top:15px;
+    padding-bottom: 15px;;
+    color: #ffffff;
+    background-color:#363e48;
+}
+
+.lowerfooter{
+    display:flex;
+    justify-content: center;
+    color: #ffffff;
+    padding-top: 50px;
+    margin-bottom: 150px;
+}
+
+.Gettoknowus{
+    padding-right: 100px;
+}
+
+.MakeMoneywithUs{
+    padding-right: 100px;
+}
+
+.AmazonPaymentProducts{
+    padding-right: 100px;
+}
+
+.copyrightandall{
+    color: #ffffff7f;
+    background-color: #131A22;
+    height: 70px;
+    padding-top: 20px;
+    font-size: small;
+    text-align: center;
+}
+
